@@ -14,7 +14,7 @@ import About from './Components/About';
 function App() {
   return (
     <>
-      {/* <Navbar/>
+      <Navbar/>
       <Routes>
       <Route path='/' element={<Home/>}></Route>
       <Route path='Regdet' element={<Regdet/>}></Route>
@@ -25,7 +25,7 @@ function App() {
       <Route path='Newper' element={<Newper/>}></Route>
       <Route path='About' element={<About/>}></Route>
       </Routes>
-      <Footer/> */}
+      <Footer/>
       
 
     </>
